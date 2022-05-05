@@ -32,15 +32,15 @@ Before deploying the playbooks, the following are required
 >Note: After deploying the logic apps below, the [Workflow Automation](https://docs.microsoft.com/en-us/azure/defender-for-cloud/workflow-automation) in Microsoft Defender for Cloud must be configured.
 **Creating from Defender Alerts**
 
-TODO
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fraffertyuy%2FMicrosoft-DevOps-Feedback-Loop%2Fmaster%2FDefenderAlert-Create-DevOpsItem-LogicApp%2Fazuredeploy.json)
 
 **Creating from Defender Recommendations**
 
-TODO
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fraffertyuy%2FMicrosoft-DevOps-Feedback-Loop%2Fmaster%2FDefenderReco-Create-DevOpsItem-LogicApp%2Fazuredeploy.json)
 
 **Creating from Defender Regulatory Compliance**
 
-TODO
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fraffertyuy%2FMicrosoft-DevOps-Feedback-Loop%2Fmaster%2FDefenderCompliance-Create-DevOpsItem-LogicApp%2Fazuredeploy.json)
 
 ### Azure DevOps Workitems --> Sentinel and Defender (feedback loop)
 Since the Azure DevOps work item can be from Sentinel or Defender, this playbook is combined for both.
