@@ -45,4 +45,4 @@ Before deploying the playbooks, the following are required
 ### Azure DevOps Workitems --> Sentinel and Defender (feedback loop)
 Since the Azure DevOps work item can be from Sentinel or Defender, this playbook is combined for both.
 
-TODO
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fraffertyuy%2FMicrosoft-DevOps-Feedback-Loop%2Fmaster%2FWorkItemUpdate-ResolveAlertOrIncident-LogicApp%2Fazuredeploy.json)
