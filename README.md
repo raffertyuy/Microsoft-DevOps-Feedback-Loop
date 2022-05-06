@@ -4,6 +4,7 @@ Azure Logic Apps that create Azure DevOps work items from Microsoft Sentinel and
 ## Pre-requisites
 Please read the ff. articles to understand the context and usage of the playbooks in this repository.
 - [Operations Task Management for Azure Alerts](https://www.raffertyuy.com/raztype/operations-task-management-from-azure-alerts/)
+- [Operations Task Management Feedback Loop](https://www.raffertyuy.com/raztype/operations-task-management-feedback-loop/)
 
 Before deploying the playbooks, the following are required
 - Azure DevOps Account
